@@ -27,4 +27,12 @@ To use this project, you will need to download and install the Oculus Voice SDK.
 
 Please note that this project relies on the Oculus Voice SDK and requires valid API keys for OpenAI. For any questions or support regarding the Oculus Voice SDK, please refer to the Oculus developer resources and community.
 
+## Demo
+
+Check out the project demo on YouTube:
+
+[Unity OpenAI Integration Demo](https://youtu.be/SMbOC_PQ_58)
+
+![chatgpt-integration-unity](https://media.giphy.com/media/pl3NlqAvAqTD2nbwfs/giphy.gif)
+![chatgpt-integration-unity](https://media.giphy.com/media/3As52aTZpCjv9x5pxr/giphy.gif)
 ---
