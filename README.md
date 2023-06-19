@@ -35,4 +35,5 @@ Check out the project demo on YouTube:
 
 ![chatgpt-integration-unity](https://media.giphy.com/media/pl3NlqAvAqTD2nbwfs/giphy.gif)
 ![chatgpt-integration-unity](https://media.giphy.com/media/3As52aTZpCjv9x5pxr/giphy.gif)
+
 ---
